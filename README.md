@@ -54,6 +54,11 @@ Open `snake_rl.ipynb` in Jupyter or Colab and run all cells to train and evaluat
 
 The notebook generates a **side-by-side video** of both agents playing after training and plots a **score graph** over time.
 
+<video controls>
+  <source src="video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## 📝 References
 
 - Sutton & Barto: *Reinforcement Learning — An Introduction*
